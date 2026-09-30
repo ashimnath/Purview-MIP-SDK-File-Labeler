@@ -19,16 +19,16 @@ public class MipService
     private IAuthDelegate? _authDelegate;
 
     private const string ClientId =
-        "3a3994a7-3118-442d-a789-f1b589e3e2d5";
+        "3a3994a7-3118-442d-a789-xxxxxxxxxxxx";
 
     private const string TenantId =
-        "e91fc23a-f264-49c8-95ea-29c44be038c6";
+        "e91fc23a-f264-49c8-95ea-xxxxxxxxxxxxxx";
 
     private readonly string _clientId =
-    "3a3994a7-3118-442d-a789-f1b589e3e2d5";
+    "3a3994a7-3118-442d-a789-xxxxxxxxxx";
 
     private readonly string _tenantId =
-        "e91fc23a-f264-49c8-95ea-29c44be038c6";
+        "e91fc23a-f264-49c8-95ea-xxxxxxxxxx";
 
     private readonly string _applicationName =
         "PurviewFileManager";
